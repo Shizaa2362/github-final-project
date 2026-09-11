@@ -1,0 +1,27 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11293
+
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11293",
+  "number": 11293,
+  "state": "closed",
+  "title": "Bug fix revert",
+  "head": {
+    "label": "Shizaa2362:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "name": "github-final-project",
+      "full_name": "Shizaa2362/github-final-project",
+      "fork": true,
+      "html_url": "https://github.com/Shizaa2362/github-final-project"
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "merged": false
+}
