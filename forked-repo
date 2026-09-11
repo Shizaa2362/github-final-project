@@ -1,0 +1,9 @@
+curl https://api.github.com/repos/Shizaa2362/github-final-project
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+
